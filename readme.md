@@ -3,7 +3,7 @@ dbImageSDK
 
 # dbImageSDK High speed digital image processing
 
-- [English](readme.md)
+- [ÖÐÎÄ](readmeCN.md)
 
 ## Ò»£ºHighlights
       Highly optimized£º
