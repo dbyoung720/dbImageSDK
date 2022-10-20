@@ -1,0 +1,13 @@
+*.identcache
+*.local
+*.dcu
+*.rsm
+/demo/d10/Vcl.Graphics.pas
+x64
+.vs
+Debug
+Release
+*.pdb
+*.exp
+*.user
+*.aps
