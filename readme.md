@@ -28,10 +28,10 @@ dbImageSDK
         Posterize；
         Noise；
 
-## 二：test
+## 二：Test
       demo\d10 (Delphi10.4)
       deom\vc  (VS2022)
 
-## 三：contact
+## 三：Contact
       eMail：dbyoung@sina.com；
       QQGrp：101611228；
