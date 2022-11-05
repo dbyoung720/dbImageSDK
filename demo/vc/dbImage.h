@@ -11,7 +11,6 @@
 #include <Windows.h>
 
 #define DLL_DBIMAGE __declspec(dllexport)
-#define CALL_METHOD __stdcall
 
 class CStopWatch
 {
